@@ -1,0 +1,28 @@
+name: Modestly Mindful
+favicon: null
+layout_spectrum: 0.36281652259640396
+typography_spectrum: 0.6823340861592442
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2673686151392758
+  lightness: 0.7418011620175093
+  saturation: 0.8173117022961378
+  rhythmicContrast: 0.8488396438769996
+purpose: []
