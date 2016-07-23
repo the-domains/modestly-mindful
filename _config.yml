@@ -1,29 +1,41 @@
-name: Modestly Mindful
-favicon: null
-layout_spectrum: 0.37083
-typography_spectrum: 0.6957
 title: Modestly Mindful
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  brandStrength: 0.5
+  rhythmicContrast: 0.75
   brandColors:
     - '#73a3af'
     - '#ffffff'
     - '#808080'
     - '#00ffff'
     - '#ccdee2'
-  brandStrength: 0.5
   lightness: 0.75
-  saturation: 1
-  rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Modestly Mindful
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.06902985
+layout_spectrum: 1
